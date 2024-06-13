@@ -1,5 +1,4 @@
 # Cricket: A Self-Powered Chirping Pixel
---------------------
 This repository contains the code, schematic, and PCB layout for the paper
 "Cricket: A Self-Powered Chirping Pixel" at SIGGRAPH 2024.
 
