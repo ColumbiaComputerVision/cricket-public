@@ -1,4 +1,8 @@
 # Cricket: A Self-Powered Chirping Pixel
+### [[Paper]](https://cave.cs.columbia.edu/Statics/publications/pdfs/Nayar_TOG24.pdf) [[Project Page]](https://cave.cs.columbia.edu/projects/categories/project?cid=Computational+Imaging&pid=Cricket+A+Self-Powered+Chirping+Pixel) [[Video]](https://cave.cs.columbia.edu/old/projects/cricket/videos/TOG24_cricket_compressed.mp4)
+
+[Shree K. Nayar](https://www.cs.columbia.edu/~nayar/), [Jeremy Klotz](https://cs.columbia.edu/~jklotz), Nikhil Nanda, and Mikhail Fridberg
+
 This repository contains the code, schematic, and PCB layout for the paper
 "Cricket: A Self-Powered Chirping Pixel" at SIGGRAPH 2024.
 
